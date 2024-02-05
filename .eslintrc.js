@@ -20,6 +20,6 @@ module.exports = {
         }
     ],
     rules: {
-        'eol-last': ['error', 'never']
+        'eol-last': ['error', 'always']
     }
 };
